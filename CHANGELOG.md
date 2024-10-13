@@ -14,4 +14,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Removed
 
-## [M.m.p] - YYYY-MM-DD
+## [0.0.0] - YYYY-MM-DD2024-10-12
+
+### Changed
+
+- Set up yWriter7 files for creation
